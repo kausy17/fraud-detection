@@ -222,3 +222,5 @@ mlruns/
 # Python cache
 __pycache__/
 *.pyc
+
+mlflow.db
